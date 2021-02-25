@@ -1,0 +1,17 @@
+canvas {
+    margin: auto;
+    padding: 10px;
+}
+
+#Sidebar {
+    padding-left: 10%;
+    text-align: center;
+    color: red;
+}
+
+#holder {
+    justify-content: end;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+}

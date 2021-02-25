@@ -1,0 +1,8 @@
+Game Scoring
+Menu
+High scores
+	must be persistent
+Breadcrumbs
+Hints
+Find Shortest path
+Time taken to solve maze
